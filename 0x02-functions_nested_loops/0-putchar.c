@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * main - prints robert to stdout
- *
- * Return: 0 if no error
- */
+*main - print _putchar and a new line
+*
+*Return: Always 0
+*/
 int main(void)
 {
 	_putchar('_');
@@ -15,5 +16,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
