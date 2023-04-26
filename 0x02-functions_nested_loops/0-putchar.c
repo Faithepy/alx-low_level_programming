@@ -26,4 +26,3 @@ printf("_putchar\n");
 return (0);
 
 }
-
